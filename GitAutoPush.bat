@@ -12,7 +12,7 @@
 
 	:: Navigate to the directory you wish to push to GitHub
 	::修改路径为您需要自动push的路径. Eg. C:\Users\rich\Desktop\Writings
-	cd C:\Users\Administrator\Desktop\zixue
+	cd C:\Users\Administrator\Desktop\Git-Auto-Push-for-Windows
 	
 	::Initialize GitHub
 	git init
