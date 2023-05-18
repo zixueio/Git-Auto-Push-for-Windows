@@ -8,3 +8,7 @@
 hosts文件下载地址：[https://raw.hellogithub.com/hosts](https://raw.hellogithub.com/hosts)
 
 源码参考：[https://github.com/Rich2020/GitHub-auto-push-for-Windows/tree/master](https://github.com/Rich2020/GitHub-auto-push-for-Windows/tree/master)
+
+# 更新记录
+
+20230518：自动获取bat文件路径
